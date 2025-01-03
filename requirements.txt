@@ -1,3 +1,4 @@
 click==7.0.0
 selenium==3.141.0
 uyaml==0.0.2
+pyyaml>=5.4 # not directly required, pinned by Snyk to avoid a vulnerability
